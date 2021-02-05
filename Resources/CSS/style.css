@@ -1,1 +1,25 @@
-ECHO is on.
+h1{
+    font-weight: Normal;
+    font-size: 50px;
+}
+body{
+    color : white;
+    font-family: "Verdana", serif;
+    background-color: black;
+    text-align: center;
+}
+a{
+    color: Aquamarine;
+    font-size: 16px;
+}
+footer{
+    text-align: right;
+}
+.SubHeading {
+    font-weight: 300;
+    font-size: 42px;
+}
+.Para{
+    font-size: 21px;
+    color: Gray;
+}
